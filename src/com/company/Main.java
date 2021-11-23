@@ -12,7 +12,7 @@ public class Main {
         ArrayList<Integer> numbers = new ArrayList<Integer>();
         Scanner inp = new Scanner(System.in);
         boolean question = true;
-        int maxQ = 0;
+
 
         do {
             try {
