@@ -16,3 +16,5 @@ Errechne dir danach aus der eben eingelesenen Liste das Maximum und gib es auf d
 ### Exercise 6.1 - Maxima calculation
 
 Provide a program that reads numbers from the console until it reads the letter 'q'. Calculate the maximum of all values and print it to the console.
+
+One of my first ones ;-)
